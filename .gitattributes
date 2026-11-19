@@ -1,0 +1,3 @@
+# SEC filings and generated notebook data: keep them out of GitHub's language statistics
+notebooks/intro/fillings/** linguist-vendored
+*.html linguist-generated
